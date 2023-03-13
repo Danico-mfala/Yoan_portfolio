@@ -1,3 +1,4 @@
 {
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "livePreview.defaultPreviewPath": "/portfolio/droitthemes.com/html/filix/index.html"
 }
